@@ -1,20 +1,20 @@
 {
-  "name": "scx",
-  "description": "scx",
+  "name": "newsc",
+  "description": "newsc",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/seav1/scx",
+  "repository": "https://github.com/seav1/newsc",
   "website": "https://scalingo.com",
   "env": {
     "NEZHA_SERVER": {
-      "description": "nz",
+      "description": "nzs",
       "value": "x.x.x"
     },    
     "NEZHA_KEY": {
-      "description": "nz key",
+      "description": "nzk",
       "value": "xx"
     },
     "ARGO_AUTH": {
-      "description": "ago key",
+      "description": "agok",
       "value": "xx"
     }    
   }

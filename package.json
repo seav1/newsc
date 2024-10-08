@@ -1,10 +1,10 @@
 {
-  "name": "my-app",
+  "name": "A",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "B",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",

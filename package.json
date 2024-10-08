@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [],
-  "author": "",
+  "author": "C",
   "license": "ISC",
   "dependencies": {
     "axios": "latest",
